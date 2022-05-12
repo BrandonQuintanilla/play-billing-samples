@@ -23,11 +23,11 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId 'com.sample.android.trivialdrivesample'
+        applicationId 'com.themoneygigs.themoneygigs'
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 8
-        versionName "1.5"
+        versionCode 4
+        versionName "1.0.1.2"
         javaCompileOptions {
             annotationProcessorOptions {
                 arguments += ["room.schemaLocation":

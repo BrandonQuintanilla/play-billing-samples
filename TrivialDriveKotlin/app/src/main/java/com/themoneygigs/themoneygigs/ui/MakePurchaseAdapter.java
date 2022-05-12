@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample.ui;
+package com.themoneygigs.themoneygigs.ui;
 
 import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
@@ -24,10 +24,10 @@ import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.sample.android.trivialdrivesample.MakePurchaseViewModel;
-import com.sample.android.trivialdrivesample.R;
-import com.sample.android.trivialdrivesample.databinding.InventoryHeaderBinding;
-import com.sample.android.trivialdrivesample.databinding.InventoryItemBinding;
+import com.themoneygigs.themoneygigs.MakePurchaseViewModel;
+import com.themoneygigs.themoneygigs.R;
+import com.themoneygigs.themoneygigs.databinding.InventoryHeaderBinding;
+import com.themoneygigs.themoneygigs.databinding.InventoryItemBinding;
 
 import java.util.List;
 

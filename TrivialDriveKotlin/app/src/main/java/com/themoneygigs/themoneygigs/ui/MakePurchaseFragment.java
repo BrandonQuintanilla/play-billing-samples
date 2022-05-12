@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.sample.android.trivialdrivesample.ui;
+package com.themoneygigs.themoneygigs.ui;
 
 import android.os.Bundle;
 import android.text.SpannableString;
@@ -32,11 +32,11 @@ import androidx.lifecycle.MediatorLiveData;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.sample.android.trivialdrivesample.MakePurchaseViewModel;
-import com.sample.android.trivialdrivesample.R;
-import com.sample.android.trivialdrivesample.TrivialDriveApplication;
-import com.sample.android.trivialdrivesample.TrivialDriveRepository;
-import com.sample.android.trivialdrivesample.databinding.FragmentMakePurchaseBinding;
+import com.themoneygigs.themoneygigs.MakePurchaseViewModel;
+import com.themoneygigs.themoneygigs.R;
+import com.themoneygigs.themoneygigs.TrivialDriveApplication;
+import com.themoneygigs.themoneygigs.TrivialDriveRepository;
+import com.themoneygigs.themoneygigs.databinding.FragmentMakePurchaseBinding;
 
 import java.util.ArrayList;
 import java.util.List;

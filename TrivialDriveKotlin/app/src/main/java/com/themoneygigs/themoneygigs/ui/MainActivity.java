@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample.ui;
+package com.themoneygigs.themoneygigs.ui;
 
 import android.app.Dialog;
 import android.os.Bundle;
@@ -37,11 +37,11 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.snackbar.Snackbar;
-import com.sample.android.trivialdrivesample.BuildConfig;
-import com.sample.android.trivialdrivesample.MainActivityViewModel;
-import com.sample.android.trivialdrivesample.R;
-import com.sample.android.trivialdrivesample.TrivialDriveApplication;
-import com.sample.android.trivialdrivesample.databinding.ActivityMainBinding;
+import com.themoneygigs.themoneygigs.BuildConfig;
+import com.themoneygigs.themoneygigs.MainActivityViewModel;
+import com.themoneygigs.themoneygigs.R;
+import com.themoneygigs.themoneygigs.TrivialDriveApplication;
+import com.themoneygigs.themoneygigs.databinding.ActivityMainBinding;
 
 /*
  * MainActivity here exists as a container for the fragments that display the various bits of UI,

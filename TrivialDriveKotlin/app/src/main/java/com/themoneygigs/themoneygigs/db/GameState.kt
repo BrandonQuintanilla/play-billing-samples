@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample.db
+package com.themoneygigs.themoneygigs.db
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

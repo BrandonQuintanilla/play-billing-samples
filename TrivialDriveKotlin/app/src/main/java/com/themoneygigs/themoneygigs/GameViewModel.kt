@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sample.android.trivialdrivesample
+package com.themoneygigs.themoneygigs
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
